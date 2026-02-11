@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://az.bigsbr.cfd/sitemap.xml
